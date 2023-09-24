@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanndeon&label=Profile%20views&color=0e75b6&style=flat" alt="johanndeon" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=radical" alt="johanndeon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=oldie" alt="johanndeon" /></a> </p>
 
 
 
