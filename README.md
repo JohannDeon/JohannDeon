@@ -50,4 +50,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johanndeon&" alt="johanndeon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanndeon&" alt="johanndeon" /></p>
