@@ -17,7 +17,7 @@
  <h1 align="center">Hi 👋, I'm Johann DEON</h1>
 <h3 align="center">I am an electronics technician</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanndeon&label=Profile%20views&color=0e75b6&style=flat" alt="johanndeon" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/johanndeonryo-ma&row=2&column=3" /> </p>
 
 <p align="center" width=100%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/johanndeon](https://github-profile-trophy.vercel.app/johanndeon&column=3&margin-w=15&margin-h=15)" alt="johanndeon" /></a> </p>
 
