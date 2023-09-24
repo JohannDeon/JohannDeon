@@ -46,7 +46,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanndeon&show_icons=true&locale=en&layout=compact" alt="johanndeon" /></p>
+<p><img align="left" height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=johanndeon&show_icons=true&locale=en&layout=compact" alt="johanndeon" /></p>
 
 
 
