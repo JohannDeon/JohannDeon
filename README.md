@@ -48,6 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanndeon&show_icons=true&locale=en&layout=compact" alt="johanndeon" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=johanndeon&show_icons=true&locale=en" alt="johanndeon" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=johanndeon&" alt="johanndeon" /></p>
