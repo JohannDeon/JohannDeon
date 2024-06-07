@@ -12,7 +12,7 @@
                                                                                                                          
 
 
- <h1 align="center">Hi 👋, I'm Johann DEON</h1>
+<h1 align="center">Hi 👋, I'm Johann DEON</h1>
 <h3 align="center">I am an electronics technician</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanndeon&label=Profile%20views&color=0e75b6&style=flat" alt="johanndeon" /> </p>
@@ -20,16 +20,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=oldie" alt="johanndeon" /></a> </p>
 
 
-
-- 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
-
-- 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
-
-- 🧑‍💻 At the moment, I'm working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
-
-- 🎵 I'm also a **music producer**
-
-- 📫 How to reach me **Johann@deonstudio.fr**
+><h1 style="color:red;">INFO</h1>
+>- 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
+>
+>- 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
+>
+>- 🧑‍💻 At the moment, I'm working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
+>
+>- 🎵 I'm also a **music producer**
+>
+>- 📫 How to reach me **Johann@deonstudio.fr**
 <h3 align="left">If you want to support me:</h3>
 <p><a href="https://www.buymeacoffee.com/jodeon22k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jodeon22k" /></a></p><br><br>
 
