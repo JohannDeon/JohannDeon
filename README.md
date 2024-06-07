@@ -32,7 +32,7 @@
 - 🎵 I'm also a **music producer**
 
 - 📫 How to reach me **Johann@deonstudio.fr**
-<h3 align="left">Support:</h3>
+<h3 align="left">If you want to support me:</h3>
 <p><a href="https://www.buymeacoffee.com/jodeon22k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jodeon22k" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
