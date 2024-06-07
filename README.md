@@ -27,7 +27,7 @@
 
 - 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
 
-- 🧑‍💻 I'm presently working for **SERMA INGENIERIE**
+- 🧑‍💻 I'm presently working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
 
 - 🎵 I am also a **music producer**
 
