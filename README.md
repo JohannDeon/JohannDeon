@@ -20,7 +20,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=oldie" alt="johanndeon" /></a> </p>
 
 
-><h1 style="color:red;">INFO</h1>
+>$\Huge\color{#ffdb00}{\textit{ Informations:}}$
+>
 >- 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
 >
 >- 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
