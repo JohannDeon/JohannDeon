@@ -27,9 +27,9 @@
 
 - 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
 
-- 🧑‍💻 I'm presently working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
+- 🧑‍💻 At the moment, I'm working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
 
-- 🎵 I am also a **music producer**
+- 🎵 I'm also a **music producer**
 
 - 📫 How to reach me **Johann@deonstudio.fr**
 <h3 align="left">Support:</h3>
