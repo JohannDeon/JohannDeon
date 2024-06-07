@@ -22,7 +22,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=oldie" alt="johanndeon" /></a> </p>
 
 
-><h3 align="left", style="color:red">Informations:</h3>
+><h3 align="left">Informations:</h3>
 >
 >- 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
 >
