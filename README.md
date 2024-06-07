@@ -25,9 +25,9 @@
 
 - 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
 
-- 🌱 I’m currently learning **different things like programmation, electrononical conception...**
+- 🌱 Actually, I'm learning **different things like programmation, electrononical conception...**
 
-- 🧑‍💻 I’m currently working for **SERMA INGENIERIE**
+- 🧑‍💻 I'm presently working for **SERMA INGENIERIE**
 
 - 🎵 I am also a **music producer**
 
