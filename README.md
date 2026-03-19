@@ -23,13 +23,13 @@
 
 ><h3 align="left">Informations:</h3>
 >
->- 🔭 I’m currently working on [my website](https://www.deonstudio.fr)
+>- 🔭 I’m currently working on [ESP32 project](https://www.deon-electronics.fr)
 >
->- 🌱 Actually, I'm learning different things like **programmation, electrononical conception...**
+>- 🌱 I'm learning different things like **programmation, electrononical conception...**
 >
 >- 🧑‍💻 At the moment, I'm working for [**SERMA INGENIERIE**](https://serma-ingenierie.com/)
 >
->- 🎵 I'm also a **music producer**
+>- 🎵 I'm also a **music producer, and 3D artist**
 >
 >- 📫 How to reach me **Johann@deonstudio.fr**
 
