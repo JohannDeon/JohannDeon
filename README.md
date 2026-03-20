@@ -50,8 +50,8 @@
 <p/>
 <p/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanndeon&show_icons=true&locale=en&layout=compact" alt="johanndeon" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohannDeon&show_icons=true&locale=en&layout=compact" alt="johanndeon" /></p>
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanndeon&" alt="johanndeon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JohannDeon&" alt="johanndeon" /></p>
