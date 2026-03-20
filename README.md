@@ -18,9 +18,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanndeon&label=Profile%20views&color=0e75b6&style=flat" alt="johanndeon" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanndeon&ryo-ma&row=2&column=3&ryo-ma&theme=oldie" alt="johanndeon" /></a> </p>
-
-
 ><h3 align="left">Informations:</h3>
 >
 >- 🔭 I’m currently working on [**ESP32 project**](https://github.com/JohannDeon/BlinkerOne/)
