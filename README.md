@@ -14,7 +14,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Johann DEON</h1>
-<h3 align="center">I am an electronics technician</h3>
+<h3 align="center">I'm an electronics technician</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johanndeon&label=Profile%20views&color=0e75b6&style=flat" alt="johanndeon" /> </p>
 
