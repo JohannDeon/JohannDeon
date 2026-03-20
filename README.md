@@ -23,7 +23,7 @@
 
 ><h3 align="left">Informations:</h3>
 >
->- 🔭 I’m currently working on [**ESP32 project**](https://www.deon-electronics.fr](https://github.com/JohannDeon/BlinkerOne/)
+>- 🔭 I’m currently working on [**ESP32 project**](https://github.com/JohannDeon/BlinkerOne/)
 >
 >- 🌱 I'm learning different things like **programmation, electrononical conception...**
 >
